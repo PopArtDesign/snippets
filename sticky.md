@@ -2,7 +2,7 @@
 
 На текущий момент лучше использовать [position: sticky](https://doka.guide/css/position-sticky/).
 
-1. Скачать скрипт: [StickyJS](https://raw.githubusercontent.com/rgalus/sticky-js/master/dist/sticky.min.js)
+1. Скачать скрипт: [sticky.min.js](https://raw.githubusercontent.com/rgalus/sticky-js/master/dist/sticky.min.js)
 
 2. Добавить код:
 

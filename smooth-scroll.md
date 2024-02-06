@@ -2,7 +2,8 @@
 
 На текущий момент лучше использовать [scroll-behavior: smooth](https://doka.guide/css/scroll-behavior/).
 
-1. Скачать скрипт: [SmoothScroll](https://raw.githubusercontent.com/cferdinandi/smooth-scroll/master/dist/smooth-scroll.min.js)
+1. Скачать скрипт: [smooth-scroll.min.js](https://raw.githubusercontent.com/cferdinandi/smooth-scroll/master/dist/smooth-scroll.min.js)
+
 2. Добавить код:
 
    ```html
