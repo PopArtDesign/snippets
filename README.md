@@ -6,6 +6,8 @@
 
 [Плавная прокрутка (smooth scroll)](smooth-scroll.md)
 
+[Слайдер](slider.md)
+
 [Filepond](filepond.md)
 
 [MailHog для MAMP](mailhog-mamp.md)
