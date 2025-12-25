@@ -2,6 +2,8 @@
 
 ## Рецепты
 
+[Модальное окно](modal.md)
+
 [Прилипающие элементы (sticky)](sticky.md)
 
 [Плавная прокрутка (smooth scroll)](smooth-scroll.md)
